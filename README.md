@@ -15,6 +15,6 @@ _**Bold and italic text**_
 4. New pages
 
 - Intro
-* About
-+ Growth
-+ New Pages
+  * About
+    + Growth
+    + New Pages
