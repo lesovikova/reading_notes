@@ -32,7 +32,7 @@ _**Bold and italic text**_
 [The link to the Markdown](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ***
-My name is Anna Lisovykova.
+My name is Anna Lisovykova.   
 [Link to my repo](https://github.com/lesovikova)
 
 
