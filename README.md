@@ -10,7 +10,7 @@
 [link to notes 102](102/class-03.md)  
 [link to notes Structure web pages with HTML](102/class-04.md)  
 [link to notes Design web pages with CSS](102/class-05.md)  
-[link to notes 102](102/class-06.md)  
+[link to notes Dynamic web pages with JavaScript](102/class-06.md)  
 [link to notes 102](102/class-07.md)  
 [link to notes 102](102/class-08.md)
 
