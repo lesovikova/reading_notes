@@ -1,7 +1,4 @@
-
-
 > “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.”
-
 
 ---
 
@@ -12,7 +9,7 @@
 [link to notes Design web pages with CSS](102/class-05.md)  
 [link to notes Dynamic web pages with JavaScript](102/class-06.md)  
 [link to notes Programming with JavaScript](102/class-07.md)  
-[link to notes 102](102/class-08.md)
+[link to notes Operators and Loops](102/class-08.md)
 
 [link to notes 201](201/class-01.md)  
 [link to notes 201](201/class-02.md)  
@@ -29,7 +26,6 @@
 [link to notes 201](201/class-13.md)  
 [link to notes 201](201/class-14.md)  
 [link to notes 201](201/class-15.md)
-
 
 ---
 
