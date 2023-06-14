@@ -14,4 +14,4 @@
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-[What is JavaScript?]
+[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)  
