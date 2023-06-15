@@ -13,7 +13,7 @@
 
 [link to notes intro to 201](201/class-01.md)  
 [link to notes Basic HTML, CSS, JS](201/class-02.md)  
-[link to notes 201](201/class-03.md)  
+[link to notes HTML Lists, Control Flow JS, CSS Box Model](201/class-03.md)  
 [link to notes 201](201/class-04.md)  
 [link to notes 201](201/class-05.md)  
 [link to notes 201](201/class-06.md)  
