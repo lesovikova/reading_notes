@@ -12,7 +12,7 @@
 [link to notes Operators and Loops](102/class-08.md)
 
 [link to notes intro to 201](201/class-01.md)  
-[link to notes 201](201/class-02.md)  
+[link to notes Basic HTML, CSS, JS](201/class-02.md)  
 [link to notes 201](201/class-03.md)  
 [link to notes 201](201/class-04.md)  
 [link to notes 201](201/class-05.md)  

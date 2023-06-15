@@ -7,4 +7,4 @@
 
 [Making Decisions In Your Code – Conditionals.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-https://chris.beams.io/posts/git-commit/
+[https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
