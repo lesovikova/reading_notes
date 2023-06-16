@@ -8,4 +8,4 @@
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)  
 [Functions – Reusable Blocks of Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
-[6 Reasons for Pair Programming]
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
