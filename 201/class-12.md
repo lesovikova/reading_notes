@@ -1,4 +1,4 @@
-Chart.js, Canvas
+Chart.js, Canvas  
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 [Chart.js Documentation:](http://www.chartjs.org/docs/)
@@ -9,4 +9,4 @@ Chart.js, Canvas
 
 [Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
-Drawing Text - Canvas API
+[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
