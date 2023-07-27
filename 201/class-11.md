@@ -8,6 +8,4 @@ Audio, Video, Images
 
 [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-This article is review from Class 05.
-
-Other Embedding Technologies
+[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
