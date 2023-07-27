@@ -23,8 +23,8 @@
 [link to notes Debugging](201/class-10.md)  
 [link to notes Audio, Video, Images](201/class-11.md)  
 [link to notes Chart.js, Canvas](201/class-12.md)  
-[link to notes 201](201/class-13.md)  
-[link to notes 201](201/class-14.md)  
+[link to notes Persistence with Local Storage](201/class-13.md)  
+[link to notes Documentation, Project Selection, & Team Workflow](201/class-14.md)  
 [link to notes 201](201/class-15.md)
 
 ---
