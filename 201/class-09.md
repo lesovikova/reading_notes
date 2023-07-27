@@ -7,4 +7,4 @@
 
 [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
 
-[Event Reference and listings]
+[Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)

@@ -20,7 +20,7 @@
 [link to notes Object-oriented programming, HTML Tables](201/class-07.md)  
 [link to notes CSS Layout](201/class-08.md)  
 [link to notes Forms and JS Events](201/class-09.md)  
-[link to notes 201](201/class-10.md)  
+[link to notes Debugging](201/class-10.md)  
 [link to notes 201](201/class-11.md)  
 [link to notes 201](201/class-12.md)  
 [link to notes 201](201/class-13.md)  
